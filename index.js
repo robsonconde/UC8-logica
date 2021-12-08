@@ -2,7 +2,7 @@ var nome = "fulano";
 var idade = 29;
 var data = new Date(2022, 3, 12 );
 var dataAtual = new Date();
-var totalParticipantes; 55;
+var totalParticipantes = 55;
 
 //informa nome
 console.log("Informe o nome:");
