@@ -6,7 +6,6 @@ var totalParticipantes = 55;
 
 //informa nome
 console.log("Informe o nome:");
-console.log(nome);
 //fim informa nome
 
 // teste idade
