@@ -21,9 +21,9 @@ if (listaPecas.length < 10) {
 // início teste nome da peça
     if (nomePeca.length > 3){
         console.log("Nome de peça está adequado");
-    }else if(nomePeca.length == 0){
+    } else if (nomePeca.length == 0){
         console.log("Preencha este espaço com o nome da peça");
-    }else {
+    } else {
         console.log("O nome deve ter mais de 3 caracteres")
     }
 // fim teste nome da peça
