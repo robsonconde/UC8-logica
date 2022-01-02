@@ -29,4 +29,3 @@ if (data <= dataAtual) {
 //fim teste data e fim do algoritmo
 
 
-
